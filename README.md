@@ -1,2 +1,2 @@
 # HeppaBOT
- HeppaBOT is a discord bot for moderation and fun.
+ This project has been moved to the <a href="https://github.com/heppasoft/HeppaBOT">"heppasoft/HeppaBOT"</a> repository.
